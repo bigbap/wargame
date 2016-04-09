@@ -1,0 +1,19 @@
+
+spritesheet64.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hexTiles64
+  rotate: false
+  xy: 0, 0
+  size: 448, 64
+  orig: 448, 64
+  offset: 0, 0
+  index: -1
+unit64
+  rotate: false
+  xy: 448, 0
+  size: 320, 64
+  orig: 320, 64
+  offset: 0, 0
+  index: -1
